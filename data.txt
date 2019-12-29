@@ -1,0 +1,3 @@
+Name: Kathe 
+Age: 27 
+Favorite Color: Pink
